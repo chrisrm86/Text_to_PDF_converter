@@ -1,3 +1,16 @@
+#!/usr/bin/python3
+# -*- coding UTF-8 -*-
+"""
+##########################################################
+
+Name:       LinkedIn profiles web scraper
+Created by: Christian Morán
+e-mail:     christianrmoran86@gmail.com
+More code:  http://github.com/chrisrm86
+
+##########################################################
+"""
+
 from fpdf import FPDF
 
 def convert_to_pdf():
