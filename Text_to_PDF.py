@@ -10,7 +10,6 @@ More code:  http://github.com/chrisrm86
 
 ##########################################################
 """
-
 from fpdf import FPDF
 
 def convert_to_pdf():
