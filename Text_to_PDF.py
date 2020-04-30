@@ -3,7 +3,7 @@
 """
 ##########################################################
 
-Name:       LinkedIn profiles web scraper
+Name:       Text to PDF converter
 Created by: Christian Morán
 e-mail:     christianrmoran86@gmail.com
 More code:  http://github.com/chrisrm86
