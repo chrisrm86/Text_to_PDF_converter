@@ -1,4 +1,4 @@
-# Text_to_PDF_converter
+# Text to PDF converter
 Simple converter of txt format files to PDF format files.
 Made with Python.
 
